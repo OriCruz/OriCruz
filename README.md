@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @OriCruz
-- 👀 I’m interested in becoming a back-end and java developer
+- 👀 Looking to become a Software Engineer with a minor in Game Development
 - 🌱 I’m currently learning java, HTML5 and CSS, searching and sorting algorithms. Recently startted learning about stacks an queues.
 - 📫 How to reach me: GitHub is the best way
 
